@@ -327,6 +327,12 @@ footer{
         grid-template-columns: repeat(1, max-content);
         gap: 20px;
     }
+
+    .switch{
+        top: 25% !important;
+        left: 40px;
+        right: unset !important;
+    }
 }
 
 /* =================================================================== */
